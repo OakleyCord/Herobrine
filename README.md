@@ -1,5 +1,5 @@
 # Herobrine
- A paper 1.19 plugin that just turns you to herobrine
+A paper 1.19 plugin that literally just turns you into herobrine 
  
  Commands: 
  - `/herobrine` - turns you into herobrine
