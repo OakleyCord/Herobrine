@@ -6,7 +6,7 @@
 
     <groupId>dev.oakleycord</groupId>
     <artifactId>Herobrine</artifactId>
-    <version>0.1-INDEV</version>
+    <version>1.0-PROD</version>
     <packaging>jar</packaging>
 
     <name>Herobrine</name>
