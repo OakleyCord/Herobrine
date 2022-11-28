@@ -1,0 +1,13 @@
+name: Herobrine
+version: '${project.version}'
+main: dev.oakleycord.herobrine.Herobrine
+api-version: 1.19
+authors: [ OakleyCord ]
+description: Turns you to herobrine
+website: https://oakleycord.dev
+commands:
+  herobrine:
+    description: Turns you to herobrine
+    usage: /herobrine
+    permission: herobrine.command.herobrine
+    permission-message: You don't have permission to use this command
